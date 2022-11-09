@@ -1,10 +1,10 @@
 /*
-* Nama :Amir Salim
-* NPM : 140810210015
+* Nama    : Amir Salim , Andre Nathaniel Adipraja , Prames Ray lapian , Ibrahim Dafi Iskandar
+* NPM     : 140810210015 , 140810200042 , 140810210059 , 140810210039
 * Kelas : A
-* Tanggal : 19 Oktober 2022
+* Tanggal : 11 November 2022
 * Nama Program : Soal4.java
-* Deskripsi :  UTS SOAL 4
+* Deskripsi :  UTS SOAL 4 dengan turunan
 */
 
 import java.util.Scanner;
